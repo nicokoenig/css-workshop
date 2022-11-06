@@ -2,7 +2,7 @@
 
 This repository contains various coding examples for my CSS workshop.
 
-## Tasks
+## Examples
 
 - See directories in this repository
 - [Flexbox Froggy](https://flexboxfroggy.com/#de)
