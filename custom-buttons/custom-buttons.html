@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Buttons</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+      }
+
+      body {
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      :root {
+        --surface-color: #fff;
+        --text-color: #000;
+        --highlight-color: salmon;
+      }
+
+      .button {
+        --base-size: 1rem;
+        all: unset;
+      }
+
+      .button--small {
+      }
+
+      .button--large {
+      }
+
+      .button + .button {
+        margin-left: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <button class="button button--small">Small Button</button>
+    <button class="button">Normal Button</button>
+    <button class="button button--large">Large Button</button>
+  </body>
+</html>
