@@ -2,11 +2,13 @@
 
 In this task you will use our wisdom about CSS selectors to fix this broken form in the local file or on [codepen](https://codepen.io/nicokoenig/pen/eYmxGYO). When you are done, your form should look and behave like [this codepen](https://codepen.io/nicokoenig/full/ZEYwvGR).
 
+https://user-images.githubusercontent.com/16404104/200177736-4effd7e1-a40a-407d-b390-2744b8523a17.mov
+
 ## Rules
 
-- **do not** edit the HTML
-- **do not** edit the existing rulesets
-- **only** add new CSS rulesets
+- Do not edit the HTML
+- Do not edit the existing rulesets
+- Only add new CSS rulesets
 
 ## Todos
 
