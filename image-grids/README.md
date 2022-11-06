@@ -24,6 +24,8 @@ After you learned some more things about CSS grid let's enhance the basic image 
 
 You will start with the given file or [this codepen](https://codepen.io/nicokoenig/pen/MWaxNob) and enhance it to look like [this codepen](https://codepen.io/nicokoenig/full/PoPLMNL)
 
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/16404104/200179508-0d9f2952-3ef7-42f7-bb43-7aa8079b2941.png">
+
 ### Rules
 
 - Do not edit the HTML
