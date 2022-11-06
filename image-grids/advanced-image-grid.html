@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Image Grid</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+      }
+
+      body {
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .image-grid {
+        border: 0.35rem solid #333;
+        width: 80vmin;
+        height: 80vmin;
+      }
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      h1 {
+        font-size: 4vmin;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="image-grid">
+      <h1>CSS GRID 🔥</h1>
+      <img src="ny.jpg" alt="Yellow cab in NY" />
+      <img src="berlin.jpg" alt="Reichstag in Berlin" />
+      <img src="cuba.jpg" alt="Streets of Havanna" />
+      <img src="vegas.jpg" alt="Las Vegas sign on the road" />
+    </main>
+  </body>
+</html>
