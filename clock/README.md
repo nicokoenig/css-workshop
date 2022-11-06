@@ -2,9 +2,16 @@
 
 In this task you will use your newly gained transform knowledge to refactor the given file or [this codepen](https://codepen.io/nicokoenig/pen/KKwONWq) to look like [this codepen](https://codepen.io/nicokoenig/full/YzPBaOo).
 
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/16404104/200177615-ff01ddd2-a06d-4501-8c27-7fa49c78c4a6.png">
+
 ## Todos
 
-- [ ] Arrange the existing inner elements of `.clock`to form the time four o'clock
+- [ ] Arrange the existing inner elements of `.clock` to form the time four o'clock
+
+
+## Bonus Todo
+
+- [ ] Use an animation to rotate the clock hands
 
 ## Hints
 
