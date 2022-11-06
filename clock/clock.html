@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clock</title>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+      }
+
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #333;
+      }
+
+      .clock {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        width: 50vmin;
+        height: 50vmin;
+        border: 2vmin solid;
+        border-radius: 50%;
+        background-color: salmon;
+      }
+
+      .minute {
+        width: 5%;
+        height: 50%;
+        background-color: currentColor;
+      }
+
+      .hour {
+        width: 5%;
+        height: 25%;
+        background-color: currentColor;
+      }
+
+      .center {
+        width: 10%;
+        height: 10%;
+        border-radius: 50%;
+        background-color: currentColor;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="clock">
+      <div class="minute"></div>
+      <div class="hour"></div>
+      <div class="center"></div>
+    </div>
+  </body>
+</html>
