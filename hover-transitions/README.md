@@ -1,6 +1,8 @@
 # Hover Transitions
 
-In this task you will use transitions. You will start with this [codepen](https://codepen.io/nicokoenig/pen/xxbvyga) and enhance it to look like this [codepen](https://codepen.io/nicokoenig/full/NWPQObr).
+In this task you will use transitions. You will start with the given file or [this codepen](https://codepen.io/nicokoenig/pen/xxbvyga) and enhance it to look like [this codepen](https://codepen.io/nicokoenig/full/NWPQObr).
+
+https://user-images.githubusercontent.com/16404104/200179202-b5efdf92-7ec1-422d-af2b-b651ba2648b2.mov
 
 ## Todos
 
